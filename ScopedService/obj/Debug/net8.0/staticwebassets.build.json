@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mi0A3lDFZzuegifQNOGMSW39OTep31mrigYas//qyg4=",
+  "Source": "ScopedService",
+  "BasePath": "_content/ScopedService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

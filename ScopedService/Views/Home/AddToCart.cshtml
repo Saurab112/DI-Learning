@@ -1,0 +1,16 @@
+﻿<!-- AddToCart.cshtml -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shopping Cart</title>
+</head>
+<body>
+    <h1>Your Shopping Cart</h1>
+    <ul>
+        @foreach (var item in ViewBag.Items)
+        {
+            <li>@item</li>
+        }
+    </ul>
+</body>
+</html>
