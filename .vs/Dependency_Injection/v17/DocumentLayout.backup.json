@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|c:\\mylearnings\\dependency_injection\\dependency_injection\\services\\simplemessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\services\\simplemessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|c:\\mylearnings\\dependency_injection\\dependency_injection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|c:\\mylearnings\\dependency_injection\\dependency_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|c:\\mylearnings\\dependency_injection\\dependency_injection\\services\\simplemessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|solutionrelative:dependency_injection\\services\\simplemessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{403D801E-842A-43F9-A077-A1E5D223F8F1}|Dependency_Injection\\Dependency_Injection.csproj|c:\\mylearnings\\dependency_injection\\dependency_injection\\services\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Dependency_Injection\\Views\\Home\\Index.cshtml",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Dependency_Injection\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-07T16:32:27.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T16:32:27.939Z"
             },
             {
               "$type": "Document",
@@ -51,16 +50,16 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Dependency_Injection\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Dependency_Injection\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Dependency_Injection\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T16:29:36.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SimpleMessageService.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Services\\SimpleMessageService.cs",
               "RelativeDocumentMoniker": "Dependency_Injection\\Services\\SimpleMessageService.cs",
@@ -81,12 +80,11 @@
               "RelativeToolTip": "Dependency_Injection\\Services\\IMessageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T16:26:23.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T16:26:23.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\Dependency_Injection\\Program.cs",
               "RelativeDocumentMoniker": "Dependency_Injection\\Program.cs",
@@ -94,8 +92,7 @@
               "RelativeToolTip": "Dependency_Injection\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T16:58:19.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T16:58:19.724Z"
             }
           ]
         }
