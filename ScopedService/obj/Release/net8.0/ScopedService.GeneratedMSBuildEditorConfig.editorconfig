@@ -23,3 +23,7 @@ build_property.EnableCodeStyleSeverity =
 [C:/myLearnings/Dependency_Injection/ScopedService/Views/Home/AddToCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRUb0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/myLearnings/Dependency_Injection/ScopedService/Views/Home/RemoveFromCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZW1vdmVGcm9tQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

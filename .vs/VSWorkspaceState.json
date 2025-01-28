@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ScopedService"
+    "\\ScopedService",
+    "\\ScopedService\\Services",
+    "\\Services"
   ],
   "SelectedNode": "\\Dependency_Injection.sln",
   "PreviewInSolutionExplorer": false

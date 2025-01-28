@@ -1,8 +1,10 @@
 ﻿@{
-    ViewData["Title"] = "Add to Cart";
+    ViewData["Title"] = "Remove Item from Cart";
 }
 
 <h2>@ViewData["Title"]</h2>
+
+<p>The item has been removed from your cart.</p>
 
 <ul>
     @foreach (var item in ViewBag.Items)
@@ -13,6 +15,4 @@
 
 <p>Total Price: $@ViewBag.TotalPrice</p>
 
-<form method="get" action="/removefromcart">
-    <button type="submit">Remove Mac book air 16gb from Cart</button>
-</form>
+<a href="/addtocart">Go back to Cart</a>

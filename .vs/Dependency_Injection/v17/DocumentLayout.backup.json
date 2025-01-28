@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\myLearnings\\Dependency_Injection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\Views\\Home\\AddToCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\Views\\Home\\AddToCart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\servicecontracts\\iemailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\servicecontracts\\iemailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\Services\\ShoppingCartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\Services\\ShoppingCartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\views\\home\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\views\\home\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\ServiceContracts\\IShoppingCartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\ServiceContracts\\IShoppingCartService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\views\\home\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\views\\home\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\ScopedService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\ScopedService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\services\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\myLearnings\\Dependency_Injection\\ScopedService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScopedService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\servicecontracts\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\servicecontracts\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|c:\\mylearnings\\dependency_injection\\scopedservice\\scopedservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80083D07-5D29-405E-91A9-B498F77AFE9F}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\scopedservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "RemoveFromCart.cshtml",
+              "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Views\\Home\\RemoveFromCart.cshtml",
+              "RelativeDocumentMoniker": "ScopedService\\Views\\Home\\RemoveFromCart.cshtml",
+              "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Views\\Home\\RemoveFromCart.cshtml",
+              "RelativeToolTip": "ScopedService\\Views\\Home\\RemoveFromCart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T17:29:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Services\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "ScopedService\\Services\\EmailNotificationService.cs",
+              "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Services\\EmailNotificationService.cs",
+              "RelativeToolTip": "ScopedService\\Services\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:25:30.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailNotificationService.cs",
+              "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\ServiceContracts\\IEmailNotificationService.cs",
+              "RelativeDocumentMoniker": "ScopedService\\ServiceContracts\\IEmailNotificationService.cs",
+              "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\ServiceContracts\\IEmailNotificationService.cs",
+              "RelativeToolTip": "ScopedService\\ServiceContracts\\IEmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T17:23:42.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ScopedService\\Properties\\launchSettings.json",
@@ -58,56 +109,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\appsettings.json",
               "RelativeDocumentMoniker": "ScopedService\\appsettings.json",
               "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\appsettings.json",
               "RelativeToolTip": "ScopedService\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T10:16:27.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T10:16:27.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AddToCart.cshtml",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Views\\Home\\AddToCart.cshtml",
               "RelativeDocumentMoniker": "ScopedService\\Views\\Home\\AddToCart.cshtml",
               "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Views\\Home\\AddToCart.cshtml",
               "RelativeToolTip": "ScopedService\\Views\\Home\\AddToCart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T09:47:49.874Z"
+              "WhenOpened": "2025-01-09T09:47:49.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ScopedService\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ScopedService\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:43:14.876Z"
+              "WhenOpened": "2025-01-09T09:43:14.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ShoppingCartService.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Services\\ShoppingCartService.cs",
               "RelativeDocumentMoniker": "ScopedService\\Services\\ShoppingCartService.cs",
               "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Services\\ShoppingCartService.cs",
               "RelativeToolTip": "ScopedService\\Services\\ShoppingCartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:37:18.814Z"
+              "WhenOpened": "2025-01-09T09:37:18.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IShoppingCartService.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\ServiceContracts\\IShoppingCartService.cs",
               "RelativeDocumentMoniker": "ScopedService\\ServiceContracts\\IShoppingCartService.cs",
@@ -119,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ScopedService.csproj",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\ScopedService.csproj",
               "RelativeDocumentMoniker": "ScopedService\\ScopedService.csproj",
@@ -131,15 +184,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Program.cs",
               "RelativeDocumentMoniker": "ScopedService\\Program.cs",
               "ToolTip": "C:\\myLearnings\\Dependency_Injection\\ScopedService\\Program.cs",
               "RelativeToolTip": "ScopedService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:06:25.437Z"
+              "WhenOpened": "2025-01-09T09:06:25.437Z",
+              "EditorCaption": ""
             }
           ]
         }

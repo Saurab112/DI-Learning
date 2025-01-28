@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2NvcGVkU2VydmljZVxWaWV3c1xIb21lXEFkZFRvQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/myLearnings/Dependency_Injection/ScopedService/Views/Home/RemoveFromCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U2NvcGVkU2VydmljZVxWaWV3c1xIb21lXFJlbW92ZUZyb21DYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/myLearnings/Dependency_Injection/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
